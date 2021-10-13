@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Be5owsky
-- 👀 I’m interested in sailing, history of World War I and... baking! 
-- 🌱 I’m currently learning geo-IT
+- 👋 Hi, I’m @Be5owsky!
+- 👀 I’m interested in sailing, history of World War I and... cooking! 
+- 🌱 I’m currently learning Python.
 - 📫 You can reach me via e-mail: soviikk@gmail.com
 
 <!---
